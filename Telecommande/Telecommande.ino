@@ -1,5 +1,5 @@
-#include <Esplora.h>
-int joyLimit = 200;
+#include <Esplora.h> // On importe la librairie qui gère les
+int joyLimit = 235; // Position minimum du joystick pour avoir un résultat
 
 int nbr = 0;
 int binTampon[9];
